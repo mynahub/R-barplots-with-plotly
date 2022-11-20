@@ -1,0 +1,61 @@
+SNP,Frequency,Country
+K314Q,47,Bioko
+E318Q,47,Bioko
+E318K,56,Bioko
+K322T,45,Bioko
+D356N,0,Bioko
+K314Q,50,Cameroon
+E318Q,0,Cameroon
+E318K,0,Cameroon
+K322T,38,Cameroon
+D356N,13,Cameroon
+K314Q,36,Gambia
+E318Q,40,Gambia
+E318K,38,Gambia
+K322T,27,Gambia
+D356N,0,Gambia
+K314Q,50,Ghana
+E318Q,29,Ghana
+E318K,50,Ghana
+K322T,50,Ghana
+D356N,0,Ghana
+K314Q,17,Kenya
+E318Q,17,Kenya
+E318K,17,Kenya
+K322T,14,Kenya
+D356N,0,Kenya
+K314Q,38,Malawi
+E318Q,36,Malawi
+E318K,24,Malawi
+K322T,17,Malawi
+D356N,0,Malawi
+K314Q,44,Tanzania
+E318Q,0,Tanzania
+E318K,0,Tanzania
+K322T,27,Tanzania
+D356N,0,Tanzania
+K314Q,0,Iran 
+E318Q,0,Iran 
+E318K,0,Iran 
+K322T,0,Iran 
+D356N,0,Iran 
+K314Q,26,Phillipiens
+E318Q,26,Phillipiens
+E318K,26,Phillipiens
+K322T,0,Phillipiens
+D356N,0,Phillipiens
+K314Q,0,Solomon Island
+E318Q,0,Solomon Island
+E318K,0,Solomon Island
+K322T,0,Solomon Island
+D356N,0,Solomon Island
+K314Q,30,Venezuela
+E318Q,30,Venezuela
+E318K,30,Venezuela
+K322T,60,Venezuela
+D356N,30,Venezuela
+K314Q,0,Vanuatu
+E318Q,0,Vanuatu
+E318K,0,Vanuatu
+K322T,0,Vanuatu
+D356N,0,Vanuatu

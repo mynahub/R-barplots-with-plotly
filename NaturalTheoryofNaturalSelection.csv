@@ -1,0 +1,21 @@
+Parameter,Value,Region
+Average nucleotide diversity,0.02381,Africa
+Tajima D,-0.50289,Africa
+Fu and Li's D,-1.84593,Africa
+Fu and Li's F,-1.48883,Africa
+Haplotype diversity,0.9679,Africa
+Average nucleotide diversity,0.01544,America
+Tajima D,0.03651,America
+Fu and Li's D,0.53651,America
+Fu and Li's F,0.59629,America
+Haplotype diversity,0.9672,America
+Average nucleotide diversity,0.08477,Asia
+Tajima D,-0.69782,Asia
+Fu and Li's D,-0.48932,Asia
+Fu and Li's F,-0.54351,Asia
+Haplotype diversity,0.776,Asia
+Average nucleotide diversity,0.00603,Oceania
+Tajima D,-0.3798,Oceania
+Fu and Li's D,-5.74056,Oceania
+Fu and Li's F,-4.10086,Oceania
+Haplotype diversity,0.64,Oceania
